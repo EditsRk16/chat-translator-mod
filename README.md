@@ -38,7 +38,7 @@ Um mod leve e eficiente para traduzir mensagens do chat do Minecraft em tempo re
 
 ## 📥 Instalação
 
-1. Baixe a versão mais recente na aba **[Releases](https://github.com/SEU_USUARIO/chat-translator-mod/releases)**
+1. Baixe a versão mais recente na aba **[Releases](https://github.com/EditsRk16/chat-translator-mod/releases)**
 2. Coloque o arquivo `.jar` na pasta `mods`
 3. Inicie o Minecraft (Fabric)
 4. Pressione **K** para abrir o menu de configuração
