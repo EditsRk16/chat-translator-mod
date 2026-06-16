@@ -1,9 +1,7 @@
 
-```markdown
 # Chat Translator Mod
 
 [![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21%2B-62b47a)](https://minecraft.net)
-[![Forge](https://img.shields.io/badge/Forge-1.21+-orange)](https://files.minecraftforge.net/)
 [![Fabric](https://img.shields.io/badge/Fabric-1.21+-purple)](https://fabricmc.net/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
@@ -42,7 +40,7 @@ Um mod leve e eficiente para traduzir mensagens do chat do Minecraft em tempo re
 
 1. Baixe a versão mais recente na aba **[Releases](https://github.com/SEU_USUARIO/chat-translator-mod/releases)**
 2. Coloque o arquivo `.jar` na pasta `mods`
-3. Inicie o Minecraft (Forge ou Fabric)
+3. Inicie o Minecraft (Fabric)
 4. Pressione **K** para abrir o menu de configuração
 
 ## ⚙️ Configuração
@@ -61,17 +59,6 @@ config/chat-translator/config.toml
 - Tecla de atalho (padrão: **K**)
 - Prefixo nas mensagens traduzidas
 
-## ⌨️ Comandos
-
-- `/ctr toggle` — Ativa ou desativa o mod
-- `/ctr lang <idioma>` — Define o idioma de tradução
-- `/ctr reload` — Recarrega as configurações
-
-## 📸 Screenshots
-
-*(Adicione aqui imagens do mod funcionando)*
-
-![Tradução no chat](https://via.placeholder.com/800x450?text=Chat+Translator+Mod)
 
 ## 🚀 Como Usar
 
@@ -81,10 +68,6 @@ config/chat-translator/config.toml
 4. As mensagens em outros idiomas serão traduzidas automaticamente
 
 ## 🧪 Desenvolvimento
-
-```bash
-./gradlew build
-```
 
 ## 🤝 Contribuindo
 
@@ -99,8 +82,3 @@ Este projeto está sob a licença **MIT** — veja o arquivo [LICENSE](LICENSE).
 **Feito com ❤️ para a comunidade brasileira de Minecraft**
 
 ---
-
-**Pronto!**  
-Agora é só copiar todo o conteúdo acima e colar no seu `README.md`.
-
-Quer que eu ajuste mais alguma coisa? (ex: mudar a tecla padrão, adicionar mais comandos, colocar um provedor específico de tradução, etc.)
